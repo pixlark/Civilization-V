@@ -1,0 +1,222 @@
+{
+  "main": {
+    "id": "9760054d7832228e",
+    "type": "split",
+    "children": [
+      {
+        "id": "44d2676940055139",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7a239c1319668f4d",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Images/UpgradePaths.png"
+              }
+            }
+          },
+          {
+            "id": "cc84f6f536aff8ff",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Images/TechnologyDistances-Small.png"
+              }
+            }
+          },
+          {
+            "id": "42a4eb3435144d99",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Guides/FilthyRobot Religion.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cc298a1096f72fec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Land Units.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e18ce79346553391",
+    "type": "split",
+    "children": [
+      {
+        "id": "aed4ec711e57db3f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0886fb6fe5b7680c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "06ffdf7cd3df78f3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "scientist",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f6de68a84a593830",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 251.5
+  },
+  "right": {
+    "id": "bf37f5005adf8d68",
+    "type": "split",
+    "children": [
+      {
+        "id": "a6ba0cb75f866651",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e215b4bfa28c5dfe",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Guides/FilthyRobot Religion.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "664304cb96fa841a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Guides/FilthyRobot Religion.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "aed7de087789a14a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "7242c8c50e5c45f6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Guides/FilthyRobot Religion.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "42a4eb3435144d99",
+  "lastOpenFiles": [
+    "~$Units.xlsx",
+    "TechnologyDistances.xlsx",
+    "Units.xlsx",
+    "Guides/FilthyRobot Early Game.md",
+    "Guides/AwesomeScorpion.md",
+    "Games/001 Egypt Quick.md",
+    "Combat.md",
+    "Images/UpgradePaths.png",
+    "CivilizationV/332FDB20",
+    "Unit Upgrade Paths.md",
+    "Images/TechnologyDistances.png",
+    "Land Units.md",
+    "CivilizationV/Units.xlsx",
+    "CivilizationV/~$Units.xlsx",
+    "Guides/FilthyRobot Ancient+Classical Warfare.md",
+    "Images/TechnologyDistances-Medium.png",
+    "Images/TechnologyDistances-Small.png",
+    "Images",
+    "CivilizationV/TechnologyDistances-Medium.png.0.pdnSave",
+    "Technologies.md",
+    "CivilizationV/TechnologyDistances-Small.png.0.pdnSave",
+    "CivilizationV/TechnologyDistances.png.0.pdnSave",
+    "Specialists.md",
+    "CivilizationV/~$TechnologyDistances.xlsx",
+    "Air Combat.md",
+    "Nuclear Weapons.md",
+    "Guides/FilthyRobot Ideologies.md",
+    "Guides/FilthyRobot Wonders.md",
+    "Guides/FilthyRobot Religion.md",
+    "Guides/Luxuries.md",
+    "Guides/Tradition and Liberty.md",
+    "Guides/Various Tips.md",
+    "Victory Types/Cultural Victory.md",
+    "Great People.md",
+    "Statistics/Gold.md",
+    "Statistics/Happiness.md",
+    "CivilizationV/FilthyRobot Guides/Religion.md"
+  ]
+}
